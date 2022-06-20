@@ -7,7 +7,7 @@ if __name__ == '__main__':
     print(
         'Sopel does not correctly load plugins installed with setup.py '
         'directly. Please use "pip install .", or add '
-        f'{os.path.dirname(os.path.abspath(__file__))}/sopel_beawesome to '
+        f'{os.path.dirname(os.path.abspath(__file__))}/sopel_dum_e to '
         'core.extra in your config.'
     )
 
